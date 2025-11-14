@@ -12,5 +12,5 @@
 | 함다온      | Design           | 
 | 김다은      | FE           | 
 | 김기웅      | BE           | 
-| 최준혁<br/>  | BE           | 
+| 최준혁<br/><img src="https://github.com/user-attachments/assets/0c3725be-4d94-4ccb-bb40-0a816223d0b4"/>  | BE           | 
 ---
