@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/Main.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="./main.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
