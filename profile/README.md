@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://skhu-link.vercel.app/">홈페이지</a>
   &nbsp; | &nbsp;
-  <a href="https://skhu-link.duckdns.org/">Swagger</a>
+  <a href="https://skhu-link.duckdns.org/swagger-ui/index.html">Swagger</a>
 </div>
 
 ---
